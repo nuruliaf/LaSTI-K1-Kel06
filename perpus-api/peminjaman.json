@@ -1,0 +1,82 @@
+{
+    "peminjaman": [
+        {
+            "namapeminjam": "Elisabeth Gunawan",
+            "judul": "BABOK",
+            "tglpinjam": "2021-11-26",
+            "tglkembali": "2021-12-03"
+        },
+        {
+            "namapeminjam": "Elisabeth Gunawan",
+            "judul": "BABOK",
+            "tglpinjam": "2021-11-26",
+            "tglkembali": "2021-12-03"
+        },
+        {
+            "namapeminjam": "Elisabeth Gunawan",
+            "judul": "BABOK",
+            "tglpinjam": "2021-11-26",
+            "tglkembali": "2021-12-03"
+        },
+        {
+            "namapeminjam": "Elisabeth Gunawan",
+            "judul": "BABOK",
+            "tglpinjam": "2021-11-26",
+            "tglkembali": "2021-12-03"
+        },
+        {
+            "namapeminjam": "Elisabeth Gunawan",
+            "judul": "BABOK",
+            "tglpinjam": "2021-11-26",
+            "tglkembali": "2021-12-03"
+        },
+        {
+            "namapeminjam": "Elisabeth Gunawan",
+            "judul": "BABOK",
+            "tglpinjam": "2021-11-26",
+            "tglkembali": "2021-12-03"
+        },
+        {
+            "namapeminjam": "Elisabeth Gunawan",
+            "judul": "BABOK",
+            "tglpinjam": "2021-11-26",
+            "tglkembali": "2021-12-03"
+        },
+        {
+            "namapeminjam": "Jason Wie J",
+            "judul": "BABOK",
+            "tglpinjam": "2021-11-26",
+            "tglkembali": "2021-12-03"
+        },
+        {
+            "namapeminjam": "Jason Wie J",
+            "judul": "BABOK",
+            "tglpinjam": "2021-11-26",
+            "tglkembali": "2021-12-03"
+        },
+        {
+            "namapeminjam": "Nurul Izza A",
+            "judul": "BABOK",
+            "tglpinjam": "2021-11-26",
+            "tglkembali": "2021-12-03"
+        },
+        {
+            "namapeminjam": "Jason Wie J",
+            "judul": "BABOK",
+            "tglpinjam": "2021-11-26",
+            "tglkembali": "2021-12-03"
+        },
+        {
+            "namapeminjam": "Tarbiyatun Nafiah",
+            "judul": "Harry Potter",
+            "tglpinjam": "2021-11-26",
+            "tglkembali": "2021-12-03"
+        },
+        {
+            "namapeminjam": "Raihan Fadhilah A",
+            "judul": "Rekayasa Perangkat Lunak",
+            "tglpinjam": "2021-11-26",
+            "tglkembali": "2021-12-03"
+        }
+    ]
+}

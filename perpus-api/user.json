@@ -1,0 +1,39 @@
+{
+    "user": [
+        {
+            "nim": 18219031,
+            "nama-mhs": "Elisabeth Gunawan",
+            "username": "eli" ,
+            "password": "eli123",
+            "jurusan": "Sistem dan Teknologi Informasi"
+        },
+        {
+            "nim": 18219003,
+            "nama-mhs": "Jason Wie J",
+            "username": "jason" ,
+            "password": "jason123",
+            "jurusan": "Sistem dan Teknologi Informasi"
+        },
+        {
+            "nim": 18219011,
+            "nama-mhs": "Nurul Izza A",
+            "username": "nurul" ,
+            "password": "nurul123",
+            "jurusan": "Sistem dan Teknologi Informasi"
+        },
+        {
+            "nim": 18219023,
+            "nama-mhs": "Tarbiyatun Nafiah",
+            "username": "nafi" ,
+            "password": "nafi123",
+            "jurusan": "Sistem dan Teknologi Informasi"
+        },
+        {
+            "nim": 18219111,
+            "nama-mhs": "Raihan Fadhilah A",
+            "username": "raihan" ,
+            "password": "raihan123",
+            "jurusan": "Sistem dan Teknologi Informasi"
+        }
+    ]
+}

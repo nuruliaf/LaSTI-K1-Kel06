@@ -1,0 +1,52 @@
+{
+    "infobuku": [
+        {
+            "idBuku": "BOOK1",
+            "judulbuku": "BABOK",
+            "kategori": "Pengetahuan",
+            "letak": "Lantai 3, Rak 15",
+            "stok": 2,
+            "rekomendasi": "Sistem dan Teknologi Informasi"
+        },
+        {
+            "idBuku": "BOOK2",
+            "judulbuku": "Multimedia Systems",
+            "kategori": "Pengetahuan",
+            "letak": "Lantai 2, Rak 13",
+            "stok": 4,
+            "rekomendasi": "Sistem dan Teknologi Informasi"
+        },
+        {
+            "idBuku": "BOOK3",
+            "judulbuku": "Harry Potter",
+            "kategori": "Novel",
+            "letak": "Lantai 3, Rak 13",
+            "stok": 5,
+            "rekomendasi": "Umum"
+        },
+        {
+            "idBuku": "BOOK4",
+            "judulbuku": "Sherlock Holmes",
+            "kategori": "Novel",
+            "letak": "Lantai 3, Rak 10",
+            "stok": 3,
+            "rekomendasi": "Umum"
+        },
+        {
+            "idBuku": "BOOK5",
+            "judulbuku": "Interaksi Manusia Komputer",
+            "kategori": "Pengetahuan",
+            "letak": "Lantai 2, Rak 7",
+            "stok": 10,
+            "rekomendasi": "Teknik Informatika"
+        },
+        {
+            "idBuku": "BOOK6",
+            "judulbuku": "Rekayasa Perangkat Lunak",
+            "kategori": "Pengetahuan",
+            "letak": "Lantai 2, Rak 15",
+            "stok": 1,
+            "rekomendasi": "Teknik Informatika"
+        }
+    ]
+}
